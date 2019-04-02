@@ -1,3 +1,4 @@
 Banh Vi Hao
 MSSV: 15151133
 Ð?n c? con kh? cung hi?u du?c l?nh Git
+pull: L?y n?i dung c?a remote repository
